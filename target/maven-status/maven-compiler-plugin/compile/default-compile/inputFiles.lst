@@ -1,0 +1,16 @@
+/Users/kunpeng/CS/Laioffer/Projects/Job Recommendation/project code/src/main/java/com/laioffer/job/servlet/RecommendationServlet.java
+/Users/kunpeng/CS/Laioffer/Projects/Job Recommendation/project code/src/main/java/com/laioffer/job/entity/ExtractRequestBody.java
+/Users/kunpeng/CS/Laioffer/Projects/Job Recommendation/project code/src/main/java/com/laioffer/job/servlet/ExampleJobServlet.java
+/Users/kunpeng/CS/Laioffer/Projects/Job Recommendation/project code/src/main/java/com/laioffer/job/servlet/ExampleBookServlet.java
+/Users/kunpeng/CS/Laioffer/Projects/Job Recommendation/project code/src/main/java/com/laioffer/job/entity/Extraction.java
+/Users/kunpeng/CS/Laioffer/Projects/Job Recommendation/project code/src/main/java/com/laioffer/job/db/MySQLTableCreation.java
+/Users/kunpeng/CS/Laioffer/Projects/Job Recommendation/project code/src/main/java/com/laioffer/job/entity/ExtractResponseItem.java
+/Users/kunpeng/CS/Laioffer/Projects/Job Recommendation/project code/src/main/java/com/laioffer/job/external/MonkeyLearnClient.java
+/Users/kunpeng/CS/Laioffer/Projects/Job Recommendation/project code/src/main/java/com/laioffer/job/db/MySQLDBUtil.java
+/Users/kunpeng/CS/Laioffer/Projects/Job Recommendation/project code/src/main/java/com/laioffer/jupiter/HelloServlet.java
+/Users/kunpeng/CS/Laioffer/Projects/Job Recommendation/project code/src/main/java/com/laioffer/job/servlet/SearchServlet.java
+/Users/kunpeng/CS/Laioffer/Projects/Job Recommendation/project code/src/main/java/com/laioffer/job/entity/ExampleJob.java
+/Users/kunpeng/CS/Laioffer/Projects/Job Recommendation/project code/src/main/java/com/laioffer/job/entity/ExampleCoordinates.java
+/Users/kunpeng/CS/Laioffer/Projects/Job Recommendation/project code/src/main/java/com/laioffer/job/external/GitHubClient.java
+/Users/kunpeng/CS/Laioffer/Projects/Job Recommendation/project code/src/main/java/com/laioffer/job/servlet/TestServlet.java
+/Users/kunpeng/CS/Laioffer/Projects/Job Recommendation/project code/src/main/java/com/laioffer/job/entity/Item.java
